@@ -1,8 +1,0 @@
-mountpoints:
-  /:
-    url: https://content.da.live/northamericanmedia/nam-b2b/
-    type: markup
-
-folders:
-  /products/: /products/default
-
