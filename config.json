@@ -1,6 +1,7 @@
 {
   "public": {
     "default": {
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Jq7iyi2YpcuDBJH23adSQJ/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Jq7iyi2YpcuDBJH23adSQJ/graphql",
       "google-api-key": "AIzaSyDuUFvmBap03XOiTZKpxtJHdVaJLy3FQK0",
       "headers": {
