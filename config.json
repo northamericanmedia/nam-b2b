@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Jq7iyi2YpcuDBJH23adSQJ/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Jq7iyi2YpcuDBJH23adSQJ/graphql",
       "google-api-key": "AIzaSyDuUFvmBap03XOiTZKpxtJHdVaJLy3FQK0",
       "headers": {
         "all": {
@@ -10,8 +10,7 @@
         "cs": {
           "Magento-Store-Code": "main_website_store",
           "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
-          "x-api-key": "search_gql"
+          "Magento-Website-Code": "base"
         }
       },
       "commerce-b2b-enabled": true,
