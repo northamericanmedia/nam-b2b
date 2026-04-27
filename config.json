@@ -1,15 +1,20 @@
 {
   "public": {
     "default": {
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Jq7iyi2YpcuDBJH23adSQJ/graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Jq7iyi2YpcuDBJH23adSQJ/graphql",
+      "commerce-endpoint": "https://edge-graph.adobe.io/api/03e397ed-8ca4-4f02-b800-a441549af898/graphql",
+      "google-api-key": "AIzaSyDuUFvmBap03XOiTZKpxtJHdVaJLy3FQK0",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
           "Magento-Store-Code": "main_website_store",
           "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base"
+          "Magento-Website-Code": "base",
+          "x-api-key": "search_gql",
+          "Magento-Environment-Id": "Jq7iyi2YpcuDBJH23adSQJ"
         }
       },
       "commerce-b2b-enabled": true,
